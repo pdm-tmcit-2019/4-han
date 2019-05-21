@@ -1,0 +1,16 @@
+<aiml version="1.0">
+
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- AIMLファイル読み込み -->
+
+<learn>aiml/wolf/*</learn>
+
+
+
+</template>
+</category>
+
+</aiml>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<meta name="author" content="waw"/>
+
+<meta name="language" content="jp"/>
+
+
+ <category> 
+    <pattern>私 は * です</pattern> 
+    <template><srai>貴方 は <star index="1"/> です</srai></template> 
+ </category> 
+
+
+ <category> 
+    <pattern>* は * です</pattern> 
+    <template><star index="1"/>は<star index="2"/>なんですね.</template> 
+ </category> 
+
+ <category> 
+    <pattern>占 CO</pattern> 
+    <template><srai>占い師 CO</srai></template> 
+ </category> 
+
+  <category> 
+    <pattern>狩 CO</pattern> 
+    <template><srai>狩り人 CO</srai></template> 
+ </category> 
+
+  <category> 
+    <pattern>狼 CO</pattern> 
+    <template><srai>狼 CO</srai></template> 
+ </category> 
+
+  <category> 
+    <pattern>霊 CO</pattern> 
+    <template><srai>霊媒師 CO</srai></template> 
+ </category> 
+
+ <category> 
+    <pattern>* CO</pattern> 
+    <template><srai>貴方 は <star index="1"/> です</srai></template> 
+ </category> 
+
+ <category> 
+    <pattern>CO * </pattern> 
+    <template><srai>貴方 は <star index="1"/> です</srai></template> 
+ </category> 
+
+  <category> 
+    <pattern>* は * では ない です</pattern> 
+    <template><star index="1"/>は<star index="2"/>ではないんですね.</template> 
+ </category> 
+
+
+  <category> 
+    <pattern>* CO 撤回</pattern> 
+    <template><srai>貴方 は <star index="1"/> ではないです</srai></template> 
+ </category> 
+
+  <category> 
+    <pattern>CO なし</pattern> 
+    <template><srai>貴方 は <star index="1"/> ではないです</srai></template> 
+ </category> 
+
+ <category> 
+    <pattern>* CO 確認</pattern> 
+    <template></template> 
+ </category> 
+
+ <category>
+	<pattern>what is the capital of <set>country</set></pattern>
+	<template>The capital of <star/> in <map name="capital"><star/></map>.</template>
+</category>
+
+
+</aiml>
+
