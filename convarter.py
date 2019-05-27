@@ -3,7 +3,7 @@ import sys
 import re
 from janome.tokenizer import Tokenizer
 
-
+ 
 t = Tokenizer("chatbotAIML/userdic.csv", udic_enc="utf8")
 
 args = sys.argv
