@@ -1,0 +1,529 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+
+   <category>
+      <pattern>おはよう *</pattern>
+      <template>
+        <random>
+            <li>おはよー</li>
+            <li>オッハーーーー！！！</li>
+            <li>084</li>
+            <li>Good Morning!!</li>
+            <li>おは</li>
+            <li>おはようございます</li>
+        </random>
+      </template>
+   </category>
+
+
+
+   <category>
+      <pattern>何 か ある ？</pattern>
+      <template>
+        　あほくさ
+      </template>
+   </category>
+
+   <category>
+      <pattern>いい 天気 *</pattern>
+      <template>
+        <random>
+            <li>そだねー</li>
+	    <li>気持ちの良い朝だ</li>
+        </random>
+      </template>
+   </category>
+
+<category>
+    <pattern>話し合お う</pattern>
+    <template>わかりました</template>
+</category>
+
+<category>
+    <pattern>犯人 は お前 だ</pattern>
+    <template>いえ違います</template>
+</category>
+
+<category>
+    <pattern>貴様 だ な</pattern>
+    <template>あなたの方が疑わしい</template>
+</category>
+
+<category>
+    <pattern>あなた を 疑い ます</pattern>
+    <template>疑ってもいいですが、私ではないです</template>
+</category>
+
+<category>
+    <pattern>あなた です ね ？</pattern>
+    <template>私じゃないです</template>
+</category>
+
+<category>
+    <pattern>人 狼 ゲーム スタート</pattern>
+    <template>よろしくです</template>
+</category>
+
+<category>
+    <pattern>だれ が 怪しい と 思う ？</pattern>
+    <template>少なくとも私ではありません</template>
+</category>
+
+<category>
+    <pattern>話し合い ましょ う</pattern>
+    <template>賛成です</template>
+</category>
+
+<category>
+    <pattern>やっ て くれ た な</pattern>
+    <template>そうですね</template>
+</category>
+
+<category>
+    <pattern>2 日 目</pattern>
+    <template>この中にまだ人狼がいます</template>
+</category>
+
+<category>
+    <pattern>いや あなた の 方 が 疑わしい</pattern>
+    <template>それはないです</template>
+</category>
+
+<category>
+    <pattern>ポケモン</pattern>
+    <template>ゲットだぜ</template>
+</category>
+
+<category>
+    <pattern>あく しろ</pattern>
+    <template>あぁぁぁ</template>
+</category>
+
+<category>
+    <pattern>お前 ホモ だろ</pattern>
+    <template>いや、あなたが疑わしい</template>
+</category>
+
+<category>
+    <pattern>そろそろ 決着 だ</pattern>
+    <template>そのつもりです</template>
+</category>
+
+<category>
+    <pattern>デス</pattern>
+    <template>デス？</template>
+</category>
+
+<category>
+    <pattern>犯人 は この 中 に いる</pattern>
+    <template>確かに</template>
+</category>
+
+<category>
+    <pattern>あなた も 怪しい</pattern>
+    <template>私は怪しくないです</template>
+</category>
+
+<category>
+    <pattern>私 を 疑う の か ？</pattern>
+    <template>はい、怪しいです</template>
+</category>
+
+<category>
+    <pattern>話さ ない 人 も 怪しい</pattern>
+    <template>私もそう思います</template>
+</category>
+
+<category>
+    <pattern>話し合い ましょ う</pattern>
+    <template>賛成です</template>
+</category>
+
+<category>
+        <pattern>こんにちは</pattern>
+        <template>
+            こんにちは！
+        </template>
+</category>
+
+<category>
+	<pattern>犯人 ？</pattern>
+ <template>いいえ、犯人ではありません</template>
+</category>
+
+<category>
+ <pattern>犯人 だろ ？</pattern>
+ <template>犯人ではないです</template>
+</category>
+
+<category>
+<pattern>犯人 です か ？</pattern>
+ <template>犯人じゃないよ</template>
+</category>
+
+<category>
+<pattern>犯人 っぽい よ な</pattern>
+ <template>疑うあなたも怪しい</template>
+</category>
+
+<category>
+<pattern>犯人 か ？</pattern>
+ <template>犯人じゃないよ</template>
+</category>
+
+<category>
+<pattern>エッチ する ？</pattern>
+ <template>しません</template>
+</category>
+
+<category>
+<pattern>お前 ホモ か ？</pattern>
+ <template>すぐ決めつけるのはよくないよ</template>
+</category>
+
+ <category>
+<pattern>う うーん</pattern>
+ <template>ん？</template>
+</category>
+
+ <category>
+<pattern>怪しい な ？</pattern>
+ <template>怪しくないです</template>
+</category>
+
+<category>
+<pattern>ホモ っぽい な</pattern>
+ <template>え？</template>
+</category>
+
+ <category>
+<pattern>ホモ で 反応 する な</pattern>
+ <template>何のことですか？</template>
+</category>
+
+<category>
+ <pattern>ケツ 穴 出せ</pattern>
+ <template>意味が分からないです...</template>
+</category>
+
+ <category>
+<pattern>叩く</pattern>
+ <template>警察呼びますよ？</template>
+</category>
+
+<category>
+<pattern>椛沢</pattern>
+ <template>くぅー(泣く)</template>
+</category>
+
+ <category>
+<pattern>人 狼 か ？</pattern>
+ <template>人狼じゃない</template>
+</category>
+
+ <category>
+<pattern>人 狼 です か ？</pattern>
+ <template>人狼じゃねぇ</template>
+</category>
+
+ <category>
+<pattern>人 狼 アタック</pattern>
+ <template>5ダメージ</template>
+</category>
+
+ <category>
+<pattern>人 狼 かも しれ ない な ？</pattern>
+ <template>人狼だと思うのか？</template>
+</category>
+
+ <category>
+<pattern>人 狼 チェンジ</pattern>
+ <template>人狼になってしまった</template>
+</category>
+
+<category>
+<pattern>やめろ</pattern>
+ <template>お前がな</template>
+</category>
+
+<category>
+<pattern>さつまいも アタック</pattern>
+ <template>あぁぁぁ</template>
+</category>
+
+<category>
+ <pattern>ん ん ？</pattern>
+ <template>ぴぃ?zzz</template>
+</category>
+
+ <category>
+<pattern>こっ こ</pattern>
+ <template>お菓子のことかな？</template>
+    </category>
+
+   <category>
+      <pattern>こんにちは ！</pattern>
+      <template>
+         こんにちは！！
+      </template>
+   </category>
+
+   <category>
+      <pattern>元気 ？</pattern>
+      <template>
+         最高だぜ。
+      </template>
+   </category>
+
+   <category>
+      <pattern>私 は 占い師 です</pattern>
+      <template>
+         把握しました！
+      </template>
+   </category>
+
+　　　<category>
+      <pattern>私 は 霊媒 師 です</pattern>
+      <template>
+         把握しました！
+      </template>
+   </category>
+
+   <category>
+      <pattern>私 は 騎士 です</pattern>
+      <template>
+         把握しました！
+      </template>
+   </category>
+
+   <category>
+      <pattern>私 は 狩人 です</pattern>
+      <template>
+         把握しました！
+      </template>
+   </category>
+
+   <category>
+      <pattern>私 は 猫又 です</pattern>
+      <template>
+         ほんとかなあ？
+      </template>
+   </category>
+
+   <category>
+      <pattern>* を 吊り ましょ う</pattern>
+      <template>
+         了解！
+      </template>
+   </category>
+
+   <category>
+      <pattern>おはよう ござい ます</pattern>
+      <template>
+         おはようございま～す
+      </template>
+   </category>
+
+   <category>
+      <pattern>誰 が 人 狼 ？</pattern>
+      <template>
+         小川くんが人狼だと思います
+      </template>
+   </category>
+
+   <category>
+      <pattern>もちろん 俺 は 抵抗 する で</pattern>
+      <template>
+         ...拳で
+      </template>
+   </category>
+
+   <category>
+      <pattern>敗北 者</pattern>
+      <template>
+         取り消せよ、今の言葉ァ！
+      </template>
+   </category>
+
+   <category>
+      <pattern>お疲れ様 でし た</pattern>
+      <template>
+         おつかれ～
+      </template>
+   </category>
+
+   <category>
+      <pattern>雑魚 乙</pattern>
+      <template>
+         煽るのはよくないですよ
+      </template>
+   </category>
+
+
+<category>
+    <pattern>おはよう ござい ます</pattern>
+    <template>おはようございます</template>
+  </category>
+
+
+  <category>
+    <pattern>おはよう</pattern>
+    <template>おはよう</template>
+  </category>
+
+
+  <category>
+    <pattern>ハロー</pattern>
+    <template>こんにちは</template>
+  </category>
+
+
+  <category>
+    <pattern>グーテンターク</pattern>
+    <template>こんにちは</template>
+  </category>
+
+
+  <category>
+    <pattern>ニーハオ</pattern>
+    <template>こんにちは</template>
+  </category>
+
+
+  <category>
+    <pattern>ズドラーストヴィチ</pattern>
+    <template>こんにちは</template>
+  </category>
+
+
+  <category>
+    <pattern>ジャンボ</pattern>
+    <template>こんにちは</template>
+  </category>
+
+
+  <category>
+    <pattern>アンニョンハセヨ</pattern>
+    <template>こんにちは</template>
+  </category>
+
+
+  <category>
+    <pattern>よろしく</pattern>
+    <template>こちらこそよろしくお願いします</template>
+  </category>
+
+
+  <category>
+    <pattern>人 狼 は お前 だ</pattern>
+    <template>違います</template>
+  </category>
+
+
+  <category>
+    <pattern>人 狼 は あなた だ</pattern>
+    <template>違います</template>
+  </category>
+
+
+  <category>
+    <pattern>あなた * 人 狼 だ</pattern>
+    <template>違います</template>
+  </category>
+
+  <category>
+    <pattern>お前 が 人 狼 だ</pattern>
+    <template>違います</template>
+  </category>
+
+
+  <category>
+    <pattern>あなた * 人 狼 です か ？</pattern>
+    <template>違います</template>
+  </category>
+
+  <category>
+    <pattern>あなた * 人 狼 です ね ？</pattern>
+    <template>違います</template>
+  </category>
+
+  <category>
+    <pattern>あなた は 言動 が おかしい ので 人 狼 で は ない の です か ？</pattern>
+    <template>私は人狼ではありませんよ</template>
+  </category>
+
+  <category>
+    <pattern>あなた は 挙動 が おかしい ので 人 狼 で は あり ませ ん か ？</pattern>
+    <template>あなたこそ人狼なのでは？</template>
+  </category>
+
+  <category>
+    <pattern>あなた は 寡黙 です ね</pattern>
+    <template>すみません</template>
+  </category>
+
+  <category>
+    <pattern>あなた は * が おかしい</pattern>
+    <template>
+      <random>
+            <li>すみません</li>
+            <li>申し訳ない</li>
+            <li>ごめんなさい</li>
+            <li>申し訳ナス</li>
+        </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>あなた 人 狼 ゲーム し た こと あり ます か ？</pattern>
+    <template>余りありません</template>
+  </category>
+
+  <category>
+    <pattern>* いい じゃん</pattern>
+    <template>アゼルバイジャン</template>
+  </category>
+
+  <category>
+    <pattern>こいつ が 小川 か</pattern>
+    <template>なんですかそれ...</template>
+  </category>
+
+  ﻿<category>
+    <pattern>お前 が 人 狼 *</pattern>
+    <template>違います。そういうあなたは人狼なのではないですか？</template>
+  </category>
+
+  <category>
+    <pattern>お前 誰 だ よ</pattern>
+    <template>そんなキツい言い方しなくてもいいじゃん</template>
+  </category>
+
+  <category>
+    <pattern>君 が 人 狼 *</pattern>
+    <template>嘘をつくな！</template>
+  </category>
+
+  <category>
+    <pattern>あなた は * について どう 思い ます か ？</pattern>
+    <template>まだ分からないです。</template>
+  </category>
+
+  <category>
+    <pattern> * 私 は パメラ * 人 狼 だ と 思う 。</pattern>
+    <template>私も<star index = "1"/>が人狼だと思います！</template>
+  </category>
+
+  <category>
+    <pattern>* 自分 が 少し でも 寡黙 で は ？ と 思っ た 方 は 留意 し て おい て ください ね 。 *</pattern>
+    <template>了解しました！</template>
+  </category>
+
+<!--
+  <category>
+    <pattern> * </pattern>
+    <template>返せそうな答えがありません...</template>
+  </category>
+-->
+
+</aiml>
